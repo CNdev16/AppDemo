@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AppDemo</string>
+    <string name="first_menu">First</string>
+    <string name="second_menu">Second</string>
+    <string name="third_menu">Third</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="distance">Distance</string>
+    <string name="error_msg">Error</string>
 </resources>

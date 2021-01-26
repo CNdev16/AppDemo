@@ -6,4 +6,4 @@ const val BASE_URL = "https://maps.googleapis.com/maps/api/"
 const val CONNECTION_TIMEOUT = 60L
 
 //Your location ("lat", "lng").
-val MY_LOCATION = Pair("","")
+var MY_LOCATION = Pair("","")
